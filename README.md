@@ -18,4 +18,5 @@ This is the [notebook](https://github.com/Th3Bard/Technical-Discussion/blob/main
 
 ### Image
 
-https://github.com/Th3Bard/Technical-Discussion/issues/1#issue-3892037342
+<img width="306" height="234" alt="image" src="https://github.com/user-attachments/assets/e8aeec8b-f205-44c3-80bb-e086d5a64584" />
+
