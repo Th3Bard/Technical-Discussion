@@ -15,3 +15,7 @@ This is a good example of [my code](https://gist.github.com/Th3Bard/8f38fceb5906
 ### Colab Example
 
 This is the [notebook](https://github.com/Th3Bard/Technical-Discussion/blob/main/Technical_docs.ipynb)
+
+### Image
+
+https://github.com/Th3Bard/Technical-Discussion/issues/1#issue-3892037342
